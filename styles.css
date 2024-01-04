@@ -288,12 +288,12 @@
   text-align: center;
   font-size: 1.375em;
   background: var(--orange);
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  box-shadow: 1px 1px 9px 9px #e7c29b;
   background-color: var(--orange);
   fill: var(--common-white);
   stroke: var(--common-white);
   bottom: 10px;
-  right: 10px;
+  right: 10%;
   z-index: 999;
   position: fixed;
   opacity: 70%;
